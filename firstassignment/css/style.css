@@ -1,0 +1,78 @@
+.wrapper {
+    width: 100%;
+    background: #eee;
+    margin: 0 auto 0 auto;
+}
+
+.heading ul li {
+    font-family: arial;
+    display: inline;
+    color: red;
+    margin-right: 20px;
+}
+
+.heading ul li:hover {
+    background-color: yellow;
+}
+
+h2 {
+    color: red;
+}
+
+.navigation ul li {
+    font-family: Arial;
+    display: inline;
+    color: red;
+    margin-right: 35px;
+    margin-left: 90px;
+}
+
+.navigation ul li:hover {
+    background-color: yellow;
+}
+
+.heading {
+    height: 29%;
+    background: white;
+    padding: 0px;
+    text-align: center;
+}
+
+.navigation {
+    height: 3%;
+    background: lightgreen;
+}
+
+.cgiimge {
+    height: 26%;
+    background: #e3e3e3;
+}
+
+.content {
+    min-height: 40%;
+    background: #ddd;
+    width: 75%;
+    float: left;
+}
+
+.sidebar {
+    width: 25%;
+    float: right;
+    background: lightblue;
+    min-height: 40%;
+}
+#pic     {
+    height:40%;
+     width:100%;
+}
+
+.footer {
+    clear: both;
+    background: black;
+    height: 2%;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+
